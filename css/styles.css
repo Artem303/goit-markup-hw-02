@@ -57,6 +57,7 @@ ul {
     color: var(--NAVY-BLUE) ;
     list-style: none;
 } 
+
 .nav > .list .link:hover,
 .nav > .list .link:focus {
     color: var(--OCEAN);
