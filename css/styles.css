@@ -48,8 +48,10 @@ ul {
     color: var(--NAVY-BLUE)
 }
 
-/* Nav */
-.nav > .list.menu {
+/* Nav */ 
+
+
+.nav > .list .link {
     font-weight: 500 ;
     font-size: 16px ;
     line-height: 1.5 ;
@@ -57,6 +59,7 @@ ul {
     color: var(--NAVY-BLUE) ;
     list-style: none;
 } 
+
 
 .nav > .list .link:hover,
 .nav > .list .link:focus {
